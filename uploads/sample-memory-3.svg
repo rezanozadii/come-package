@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs><linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b3a7a"/><stop offset=".6" stop-color="#d6709a"/><stop offset="1" stop-color="#ffc58f"/></linearGradient></defs>
+  <rect width="600" height="600" fill="url(#a)"/>
+  <circle cx="420" cy="330" r="64" fill="#ffe2b5" opacity=".9"/>
+  <path d="M0 400L140 300L250 380L380 270L520 370L600 330V600H0Z" fill="#1d1535" opacity=".85"/>
+  <text x="300" y="540" text-anchor="middle" font-family="Vazirmatn, Tahoma, sans-serif" font-size="30" fill="#fff" opacity=".9">عکس شما</text>
+</svg>

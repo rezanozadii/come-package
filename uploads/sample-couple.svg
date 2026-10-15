@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b1d4f"/><stop offset=".55" stop-color="#c2456a"/><stop offset="1" stop-color="#ffb27a"/></linearGradient>
+    <linearGradient id="h" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9db1"/><stop offset="1" stop-color="#e0305b"/></linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#sky)"/>
+  <circle cx="560" cy="360" r="90" fill="#ffd9a8" opacity=".85"/>
+  <path d="M0 470C140 430 260 450 400 430S660 440 800 470V600H0Z" fill="#2a1233"/>
+  <g fill="#150a1c">
+    <circle cx="335" cy="285" r="34"/><path d="M290 470v-120c0-34 22-52 45-52s45 18 45 52v120Z"/>
+    <circle cx="438" cy="298" r="31"/><path d="M398 470v-105c0-30 20-48 40-48s40 18 40 48v105Z"/>
+  </g>
+  <path d="M385 200C340 170 335 130 360 120C380 112 385 130 385 140C385 130 392 112 412 120C437 130 432 170 385 200Z" fill="url(#h)" transform="translate(15 -10)"/>
+  <text x="400" y="545" text-anchor="middle" font-family="Vazirmatn, Tahoma, sans-serif" font-size="26" fill="#ffe7d0" opacity=".9">جای عکس شما دو نفر</text>
+</svg>
